@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dumby-monster/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/dumby-monster/static/js/main.6aa5906e.chunk.js",
+    "main.js.map": "/dumby-monster/static/js/main.6aa5906e.chunk.js.map",
+    "runtime-main.js": "/dumby-monster/static/js/runtime-main.ee5e5891.js",
+    "runtime-main.js.map": "/dumby-monster/static/js/runtime-main.ee5e5891.js.map",
+    "static/js/2.1d955ba7.chunk.js": "/dumby-monster/static/js/2.1d955ba7.chunk.js",
+    "static/js/2.1d955ba7.chunk.js.map": "/dumby-monster/static/js/2.1d955ba7.chunk.js.map",
+    "static/js/3.981c8e5f.chunk.js": "/dumby-monster/static/js/3.981c8e5f.chunk.js",
+    "static/js/3.981c8e5f.chunk.js.map": "/dumby-monster/static/js/3.981c8e5f.chunk.js.map",
+    "index.html": "/dumby-monster/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/dumby-monster/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1d955ba7.chunk.js.LICENSE.txt": "/dumby-monster/static/js/2.1d955ba7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dumby-monster/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee5e5891.js",
+    "static/js/2.1d955ba7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6aa5906e.chunk.js"
+  ]
+}
